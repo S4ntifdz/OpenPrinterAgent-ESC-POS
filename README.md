@@ -2,6 +2,8 @@
 
 **OpenPrinterAgent** es una aplicación de código abierto para controlar impresoras térmicas ESC/POS desde tu escritorio o mediante una API REST.
 
+<img width="1081" height="668" alt="image" src="https://github.com/user-attachments/assets/ca894c66-afd8-491a-bb29-083322ad49e4" />
+
 ## Características
 
 - **GUI de Escritorio**: Interfaz moderna con CustomTkinter para gestionar impresoras y trabajos de impresión
