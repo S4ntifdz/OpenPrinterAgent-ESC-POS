@@ -1,0 +1,5 @@
+# OpenPrinterAgent - Test Dependencies
+# Install with: pip install -r requirements-test.txt
+# Used in CI/CD pipelines for isolated test environment
+
+-r requirements-dev.txt
